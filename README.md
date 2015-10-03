@@ -1,2 +1,2 @@
-# intro-to-github-slides
+# intro-to-github-session
 amaze!
